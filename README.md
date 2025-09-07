@@ -16,4 +16,4 @@ A team project for a personal finance and asset management app designed in Figma
 - Understanding design-to-development workflow
 
 ## Prototype Link
-[View Figma Prototype]([PASTE_YOUR_FIGMA_LINK_HERE](https://www.figma.com/proto/THpi4uHN1vX1YJdl94SoOd/Flox?node-id=396-1365&t=7tI1ne9oblebl6CV-1&scaling=scale-down&content-scaling=fixed&page-id=23%3A4&starting-point-node-id=23%3A5&show-proto-sidebar=1))
+[View Figma Prototype]((https://www.figma.com/proto/THpi4uHN1vX1YJdl94SoOd/Flox?node-id=396-1365&t=7tI1ne9oblebl6CV-1&scaling=scale-down&content-scaling=fixed&page-id=23%3A4&starting-point-node-id=23%3A5&show-proto-sidebar=1))
